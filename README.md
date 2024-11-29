@@ -74,5 +74,5 @@ For more detailed information, please refer to the full report.
 
 ## Contributors
 
-- Andrea Frigatti
-- Davide Ferrari
+- [Andrea Frigatti](https://github.com/Frig00)
+- [Davide Ferrari](https://github.com/ferraridavide)
