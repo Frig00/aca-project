@@ -1,6 +1,8 @@
 # Optimizing Path Tracing Workflows with MPI and Cloud Computing
 
-![Path Tracing Sample Image](https://github.com/ferraridavide/aca-project/blob/master/src/output_0000.png)
+<p align="center">
+  <img src="https://github.com/ferraridavide/aca-project/blob/master/src/output_0000.png" alt="Path Tracing Sample Image">
+</p>
 
 ## Abstract
 
